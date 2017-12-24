@@ -43,7 +43,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <mainClass>fr.uca.unice.polytech.si3.ps5.year17.teamB.engine.Main</mainClass>
+                    <mainClass>com.steakware.alarmclock.engine.App</mainClass>
                     <arguments>
                         <argument>6</argument>
                         <argument>20</argument>
