@@ -4,10 +4,7 @@
 
 package com.steakware.alarmclock.gui;
 
-import javafx.fxml.FXMLLoader;
-import javafx.scene.Group;
 import javafx.scene.Scene;
-import javafx.scene.layout.BorderPane;
 
 public class Viewer extends Scene {
 
